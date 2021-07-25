@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.StringConcatFactory"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.utils.ListingErrorHandler"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="jdk.internal.jimage.decompressor.ZipDecompressorFactory"/>
 </qualifiedTypeNameHistroy>
