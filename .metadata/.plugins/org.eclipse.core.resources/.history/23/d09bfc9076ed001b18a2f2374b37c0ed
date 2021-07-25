@@ -1,0 +1,18 @@
+package hw3Q3JavaBasics;
+
+public class MyAddress {
+	String Name = "Fatima Khan";
+	int houseNumber = 2920;
+	String houseStreetString ="Hone Ave";
+	
+	
+	
+			
+			
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
